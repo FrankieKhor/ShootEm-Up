@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<HighScoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerName>
+    <string>Frankie</string>
+    <string>Frankie</string>
+    <string>Frankie</string>
+    <string>Neil</string>
+    <string>Shawn</string>
+    <string>Mark</string>
+    <string>Cindy</string>
+    <string>Sam</string>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </PlayerName>
+  <Score>
+    <int>19800</int>
+    <int>14800</int>
+    <int>14800</int>
+    <int>1</int>
+    <int>2</int>
+    <int>3</int>
+    <int>4</int>
+    <int>5</int>
+    <int>0</int>
+    <int>0</int>
+  </Score>
+  <Count>10</Count>
+</HighScoreData>
